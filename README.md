@@ -26,7 +26,8 @@ Ensure you have the following installed:
    git clone https://github.com/yourusername/Emotion-Detecting-System.git
    cd Emotion-Detecting-System
    ```
-2. Compile and run the project:
+2. Run The Python Script to Generate the model "E_2.onnx".
+3. Compile and run the project:
    ```sh
    javac -cp .;onnxruntime.jar MainWindow.java
    java -cp .;onnxruntime.jar MainWindow
@@ -46,6 +47,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Dev Team
 Usman Nisar, Abdul Basit Khan, Rameesha Wajid, Hamza Mughal, Husnain Khawaja, Neha Qasim, Hasan Butt
-SED @UET Taxila
+: SED @UET Taxila
 
 
