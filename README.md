@@ -28,7 +28,7 @@ Ensure you have the following installed:
    ```
 2. Download the Kaggle Dataset: https://www.kaggle.com/datasets/nelgiriyewithana/emotions
 3. Run The Python Script to Generate the model "E_2.onnx".
-4. Compile and run the project:
+4. Compile and run the maven project with the dependencies in the "pom.xml" file:
    ```sh
    javac -cp .;onnxruntime.jar MainWindow.java
    java -cp .;onnxruntime.jar MainWindow
