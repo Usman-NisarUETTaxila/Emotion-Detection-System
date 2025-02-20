@@ -10,8 +10,9 @@ The **Emotion Detecting System** is a Java-based application that utilizes ONNX 
 - Displays classified emotions in an interactive text area
 
 ## Technologies Used
+- **Python** for Machine Learning Model Training
 - **Java** (Swing for UI)
-- **ONNX Runtime** (for running the machine learning model)
+- **ONNX Runtime** (for running the machine learning model in java)
 - **Gradients & Modern UI Design**
 
 ## Installation
