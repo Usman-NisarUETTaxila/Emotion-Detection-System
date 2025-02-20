@@ -4,10 +4,10 @@
 The **Emotion Detecting System** is a Java-based application that utilizes ONNX models to analyze text input and determine the emotion conveyed. The system provides a graphical user interface (GUI) for users to enter a post and receive an emotion classification.
 
 ## Features
-- User-friendly GUI built with Java Swing
-- Supports real-time emotion detection using an ONNX model
 - Classifies text into six emotions: Sad, Happy, In Love, Angry, Scared, and Surprised
 - Displays classified emotions in an interactive text area
+- Supports real-time emotion detection using an ONNX model
+- User-friendly GUI built with Java Swing
 
 ## Technologies Used
 - **Python** for Machine Learning Model Training
