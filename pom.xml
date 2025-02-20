@@ -15,26 +15,14 @@
     </properties>
 
     <dependencies>
-        <!-- Tablesaw dependency for Data Analysis -->
-        <dependency>
-            <groupId>tech.tablesaw</groupId>
-            <artifactId>tablesaw-core</artifactId>
-            <version>0.43.1</version>
-        </dependency>
-
-        <!-- WEKA Dependency -->
-        <dependency>
-            <groupId>nz.ac.waikato.cms.weka</groupId>
-            <artifactId>weka-stable</artifactId>
-            <version>3.8.6</version>
-        </dependency>
-
+             
         <!-- ONNX Runtime Dependency for Java -->
         <dependency>
             <groupId>com.microsoft.onnxruntime</groupId>
             <artifactId>onnxruntime</artifactId>
             <version>1.16.1</version>
         </dependency>
+             
     </dependencies>
 
 </project>
