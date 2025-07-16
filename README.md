@@ -54,5 +54,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [Khawaja Hasnain](https://github.com/khhasnain05)
 [Hamza Mughal](https://github.com/Hamzu512)
 [Neha Qasim](https://github.com/Neha-Qasim)
-Hasan Butt
-: SED @UET Taxila
+[Hasan Butt](https://github.com/hasanbutt5703)
+SED @UET Taxila
