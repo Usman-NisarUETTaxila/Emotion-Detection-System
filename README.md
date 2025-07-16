@@ -48,7 +48,11 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Dev Team
-Usman Nisar, Abdul Basit Khan, Rameesha Wajid, Hamza Mughal, Husnain Khawaja, Neha Qasim, Hasan Butt
+[Usman Nisar](https://github.com/Usman-NisarUETTaxila)
+[Abdul Basit Khan](https://github.com/am-abk)
+[Rameesha Wajid](https://github.com/Rameesha-wajid)
+[Khawaja Hasnain](https://github.com/khhasnain05)
+[Hamza Mughal](https://github.com/Hamzu512)
+Neha Qasim 
+Hasan Butt
 : SED @UET Taxila
-
-
