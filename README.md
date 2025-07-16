@@ -53,6 +53,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [Rameesha Wajid](https://github.com/Rameesha-wajid)
 [Khawaja Hasnain](https://github.com/khhasnain05)
 [Hamza Mughal](https://github.com/Hamzu512)
-Neha Qasim 
+[Neha Qasim](https://github.com/Neha-Qasim)
 Hasan Butt
 : SED @UET Taxila
